@@ -19,7 +19,7 @@
 ## About The Project
 
 
-The Hiring Channel Web is a Website that contains data from Company and Engineer, which is made for Engineers to enter their profiles so that Companies can searching for Engineers that match their specifications.
+The ChatON application is a website that has realtime private features, which is built using vuejs and socket.io-client.
 
 ### Built With
 
@@ -72,8 +72,8 @@ VUE_APP_SOCKET_URL =
 
 
 ## Related Project
-* [`Frontend-HiringChannelApp-ReactNative`](https://github.com/AdmiralYuuShi/HiringChannelApp-ReactNative)
-* [`Backend-HiringChannelApp`](https://github.com/AdmiralYuuShi/Backend-HiringChannelApp)
+* [`Frontend-ChatON-Application`](https://github.com/renaldipratama97/Frontend-ChatApplication.git)
+* [`Backend-ChatON-Application`](https://github.com/renaldipratama97/Backend-ChatApplication.git)
 
 
 <!-- CONTACT -->
