@@ -11,7 +11,7 @@
 
   <h3 align="center">ChatON Application</h3>
   <p align="center">
-    <img src="https://user-images.githubusercontent.com/72293996109068421-6a3e6700-7722-11eb-834a-ee03ee930aaf.png" width="300">
+    <img src="https://user-images.githubusercontent.com/72293996/109068879-08323180-7723-11eb-83ea-fdc541430cb3.png" width="300">
   </p>
 </p>
 
