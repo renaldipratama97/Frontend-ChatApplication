@@ -64,18 +64,11 @@ VUE_APP_SOCKET_URL =
 
 <p align='center'>
   <span>
-      <image width="200" src='./screenshots/hca-register.png' />
-      <image width="200" src='./screenshots/hca-login.png' />
-      <image width="200" src='./screenshots/hca-home.png' />
-      <image width="200" src='./screenshots/hca-engineers-10.png' />
-      <image width="200" src='./screenshots/hca-companies.png' />
-      <image width="200" src='./screenshots/hca-create-profile-engineer.png' />
-      <image width="200" src='./screenshots/hca-create-company-profile.png' />
-      <image width="200" src='./screenshots/hca-profile-engineer.png' />
-      <image width="200" src='./screenshots/hca-profile-company.png' />
-      <image width="200" src='./screenshots/hca-edit-profile-engineer.png' />
-      <image width="200" src='./screenshots/hca-edit-profile-company.png' />
-     
+      <img src="https://user-images.githubusercontent.com/72293996/109070004-8e9b4300-7724-11eb-86bc-c858dee61cb8.png" width="300">
+      <img src="https://user-images.githubusercontent.com/72293996/109070075-a1157c80-7724-11eb-8799-9fdca57ef438.png" width="300">
+      <img src="https://user-images.githubusercontent.com/72293996/109070087-a672c700-7724-11eb-8ad9-bc50d04a7316.png" width="300">
+      <img src="https://user-images.githubusercontent.com/72293996/109070106-aa9ee480-7724-11eb-8de2-4a1dd8817c86.png" width="300">
+      <img src="https://user-images.githubusercontent.com/72293996/109070122-af639880-7724-11eb-9de6-bca4c0e1adef.png" width="300">     
 
 
 ## Related Project
