@@ -1,18 +1,38 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div class="icon">
+      <img @click.prevent="goLogin" src="../assets/icon.png" alt="splash screen">
+    </div>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'Home',
-  components: {
-    HelloWorld
+  methods: {
+    goLogin () {
+      this.$router.push('/auth/login')
+    }
   }
 }
 </script>
+
+<style scoped>
+.home {
+  background: #7E98DF;
+  height: 657px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.home img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+  cursor: pointer;
+}
+</style>
